@@ -38,6 +38,7 @@ body{
        height: 48px;
        display: flex;
        padding-top:5px;
+       width: 100%;
    }
 
    .vlbd{
@@ -302,6 +303,8 @@ footer{
     font-family: "Segoe UI", SegoeUI, "Helvetica Neue", Helvetica, Arial, sans-serif;
     outline-offset: -2px;
     cursor: pointer;
+    width: 80px;
+
     
 }
 
