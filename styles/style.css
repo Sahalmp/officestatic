@@ -259,12 +259,19 @@ body{
     font-weight: 600;
     padding-bottom: 4px;
     line-height: 20px;
+    cursor: pointer;
 }
 .section-last p{
     padding-top: 8px;
     padding-bottom: 8px;
     line-height: 16px;
     font-size: 11px;
+    cursor: pointer;
+
+}
+.section-last p:hover{
+    text-decoration: underline;
+
 
 }
 footer{
