@@ -307,12 +307,17 @@ footer{
 
     
 }
+.right-section{
+    width: 50%;
+    display: flex;
+}
 
 
 
 .leftsectionhead{
-    margin-left: 500px;
+    margin-left: 30%;
     display: flex;
+    width: 50%;
   
 }
 .nav-items img{
